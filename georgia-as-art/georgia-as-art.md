@@ -6,20 +6,16 @@ This included Tobias Frere-Jones’ Gotham (2000), prominently use by the Obama 
 
 Georgia (1996) was strangely omitted—“How can MoMA include Verdana without including Georgia?” Paul Shaw wondered (Shaw)—though this was perhaps due to the inclusion of six other Carter typefaces.
 
-<figure class="figure--aside figure--border">
 ![](assets/moma-ff-meta-normal.jpg)
 ![](assets/moma-gotham-medium.jpg)
 ![](assets/moma-verdana-regular.jpg)
 ![](assets/moma-georgia-regular.png)
-<figcaption>The MoMA’s specimens for Tobias Frere-Jones’ [Gotham](#), Erik Spiekermann’s [FF Meta](#), and Matthew Carter’s [Verdana](#). Lastly is an invention of how the Georgia specimen might have appeared.</figcaption>
-</figure>
+<em>The MoMA’s specimens for Tobias Frere-Jones’ [Gotham](#), Erik Spiekermann’s [FF Meta](#), and Matthew Carter’s [Verdana](#). Lastly is an invention of how the Georgia specimen might have appeared.</em>
 
 Less conventional selections were also made, like Zuzana Licko’s bitmap face Oakland (1985), her collaboration with P. Scott Makela for Dead History (1990), and FF Beowolf. Beowolf, designed in 1990 by Erik van Blokland and Just van Rossum, illustrated the potential for generated digital type and tools, when this was explored even less than today.
 
-<figure class="figure--aside">
 <div class="embed-container"><iframe src="http://player.vimeo.com/video/49548029?badge=0" height="240" width="320"></iframe></div>
-<figcaption>Today, Beowolf is distributed as multiple styles, but the original version is actually randomly generated (Letterror).</figcaption>
-</figure>
+<em>Today, Beowolf is distributed as multiple styles, but the original version is actually randomly generated (Letterror).</em>
 
 <!-- Elaborate on Beowolf? -->
 
@@ -31,16 +27,12 @@ Even with this goal, Beowolf functions as a tool more than an idea or concept; t
 
 Biľak makes execution a requirement: it has to exist as usable type to be considered type. When this isn’t met, it’s less likely the work will be viewed as type. Type designer Wim Crouwel noted his MoMA inducted typeface New Alphabet (1967) was an experiment, not intended for extensive use (Kennedy). When a typeface’s concept overpowers its ability to be used, its applications are likely to remain conceptual.
 
-<figure class="figure--aside">
 ![](assets/wim-crouwel-new-alphabet.jpg)
-<figcaption>Wim Crouwel’s New Alphabet, in use on the cover of his <cite>New Alphabet: An introduction for a programmed typography</cite> (1967). [Photo © Bas van Vuurde](https://www.flickr.com/photos/39774626@N03/6498809487)
-</figcaption>
-</figure>
+<em>Wim Crouwel’s New Alphabet, in use on the cover of his <cite>New Alphabet: An introduction for a programmed typography</cite> (1967). [Photo © Bas van Vuurde](https://www.flickr.com/photos/39774626@N03/6498809487)
+</em>
 
-<figure class="figure--aside">
 ![](assets/joy-division-substance.jpg)
-<figcaption>Peter Saville modified New Alphabet, prioritising convention over its concept, before using it on the cover of the Joy Division collection, <cite>Substance</cite> (1988). [Photo © ceremony60](https://www.flickr.com/photos/56516867@N04/9161081906/in/photostream/)</figcaption>
-</figure>
+<em>Peter Saville modified New Alphabet, prioritising convention over its concept, before using it on the cover of the Joy Division collection, <cite>Substance</cite> (1988). [Photo © ceremony60](https://www.flickr.com/photos/56516867@N04/9161081906/in/photostream/)</em>
 
 According to Erwin Panofsky, an object “either demands or does not demand to be experienced [aesthetically], for it has what the scholastics call _intention_” (12). A typeface’s nature as a tool and “vehicle of communication” (Panofsky 11) doesn’t demand it, but it does permit it. The work of type designers, like architects and industrial designers, “reflects social developments, advances in materials and means of production, cultural biases, and technological progress” (MoMA 348).
 
