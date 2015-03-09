@@ -2,20 +2,20 @@
 
 Typefaces’ use as practical tools for communication hasn’t stopped them being repositioned as art. In 2011, twenty-three digital typefaces were inducted into the Museum of Modern Art’s Architecture and Design collection (Antonelli).
 
-This included Tobias Frere-Jones’ Gotham (2000), prominently use by the Obama presidential campaign in 2008 and 2012, Erik Spiekermann’s FF Meta (1984-1991), and Matthew Carter’s popular screen typeface Verdana (1996).
+These included Tobias Frere-Jones’ Gotham (2000), prominently used by the Obama presidential campaign in 2008 and 2012, Erik Spiekermann’s FF Meta (1984-1991), and Matthew Carter’s popular screen typeface Verdana (1996).
 
-Georgia (1996) was strangely omitted—“How can MoMA include Verdana without including Georgia?” Paul Shaw wondered (Shaw)—though this was perhaps due to the inclusion of six other Carter typefaces.
+Georgia (1996) was strangely omitted. “How can MoMA include Verdana without including Georgia?” Paul Shaw wondered (Shaw)—though perhaps this was due to the inclusion of six other Carter typefaces.
 
 ![](assets/moma-ff-meta-normal.jpg)
 ![](assets/moma-gotham-medium.jpg)
 ![](assets/moma-verdana-regular.jpg)
 ![](assets/moma-georgia-regular.png)
-<em>The MoMA’s specimens for Tobias Frere-Jones’ [Gotham](#), Erik Spiekermann’s [FF Meta](#), and Matthew Carter’s [Verdana](#). Lastly is an invention of how the Georgia specimen might have appeared.</em>
+<em>The MoMA’s specimens for Tobias Frere-Jones’ [Gotham](#), Erik Spiekermann’s [FF Meta](#), and Matthew Carter’s [Verdana](#). The last is an invention of how the Georgia specimen might have appeared.</em>
 
 Less conventional selections were also made, like Zuzana Licko’s bitmap face Oakland (1985), her collaboration with P. Scott Makela for Dead History (1990), and FF Beowolf. Beowolf, designed in 1990 by Erik van Blokland and Just van Rossum, illustrated the potential for generated digital type and tools, when this was explored even less than today.
 
 <div class="embed-container"><iframe src="http://player.vimeo.com/video/49548029?badge=0" height="240" width="320"></iframe></div>
-<em>Today, Beowolf is distributed as multiple styles, but the original version is actually randomly generated (Letterror).</em>
+<em>Today, Beowolf is distributed as multiple styles. The original version was randomly generated (Letterror).</em>
 
 <!-- Elaborate on Beowolf? -->
 
